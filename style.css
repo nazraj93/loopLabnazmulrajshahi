@@ -1,0 +1,61 @@
+body{
+background: #333;
+color: #fff;
+}
+
+.navbar{
+    border-bottom:3px solid #0878B1;
+    opacity: 0.8;
+    
+}
+
+#home-section{
+    background: url(img/bg.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 800px;
+}
+
+#home-section .dark-overlay{
+    background-color: rgba(0, 0, 0, .7);
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    min-height: 800px;
+}
+#home-section .home-inner{
+    padding-top: 150px;
+}
+.card-form{
+    opacity: 0.8;
+}
+
+.fa{
+    color: #008ED6;
+    background: #fff;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: 28px;
+    font-weight: bold;
+}
+
+#explore-check{
+    color: #fff;
+    background:#333333;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: 28px;
+    font-weight: bold;
+}
+#share-check{
+    color: #fff;
+    background:#333333;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: 28px;
+    font-weight: bold;
+}
+.colorMe{
+    color: black;
+}
